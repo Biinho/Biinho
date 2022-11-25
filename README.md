@@ -1,6 +1,6 @@
 ### Olá, seja Bem-Vindo. 👋
 
-- 🔭 Programador Javascript / HTML / CSS   - 🌱 Estudando também... C#  - 💬 Criador de Softwares para empresa.
+- 🔭 Programador Javascript / HTML / CSS /.LUA   - 🌱 Estudando também... C#  - 💬 Criador de Softwares para empresa.
 
 <div style="display: inline_block">
   <a href="https://github.com/Biinho">
