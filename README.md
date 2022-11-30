@@ -1,11 +1,12 @@
 ### Olá, seja Bem-Vindo. 👋
+##
 
-- 🔭 Programador Javascript / HTML / CSS /.LUA   - 🌱 Estudando também... C#  - 💬 Criador de Softwares para empresa.
+- 🔭 **Programador** _Javascript / HTML / CSS /.LUA   - 🌱 Estudando também... C#  - :technologist: **Criador** de Artes, Bot, Plugins para jogos e Softwares
 
 <div style="display: inline_block">
   <a href="https://github.com/Biinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biinho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biinho&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Biinho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biinho&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   </div>
