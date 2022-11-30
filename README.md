@@ -1,7 +1,8 @@
 ### Olá, seja Bem-Vindo. 👋
 ##
-
-- 🔭 **Programador** _Javascript / HTML / CSS /.LUA   - 🌱 Estudando também... C#  - :technologist: **Criador** de Artes, Bot, Plugins para jogos e Softwares
+### 🔭 **Programador** Javascript / HTML / CSS / PHP / .LUA / C#   
+- :technologist:  **Criador** de Artes - Bot - Plugins para jogos - Softwares
+- 🌱 Estudando também... C#
 
 <div style="display: inline_block">
   <a href="https://github.com/Biinho">
