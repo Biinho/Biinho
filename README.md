@@ -1,7 +1,7 @@
 ### Olá, seja Bem-Vindo. 👋
 ##
 ### 🔭 **Programador** Javascript / HTML / CSS / PHP / .LUA / C#   
-- :technologist:  **Criador** de Artes - Bot - Plugins para jogos - Softwares
+- :technologist:  **Criador** de Artes - Bot, API's - Plugins para jogos - Softwares
 - 🌱 Estudando também... C#
 
 <div style="display: inline_block">
