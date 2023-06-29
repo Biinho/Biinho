@@ -2,7 +2,7 @@
 ##
 ### 🔭 **Programador** Javascript / HTML / CSS / PHP / .LUA / C#   
 - :technologist:  **Criador** de Artes - Bot, API's - Plugins para jogos - Softwares
-- 🌱 Estudando também... C#
+- 🌱 Manager IT
 
 <div style="display: inline_block">
   <a href="https://github.com/Biinho">
