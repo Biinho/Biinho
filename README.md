@@ -1,6 +1,6 @@
 ### Olá, seja Bem-Vindo. 👋
 ##
-### 🔭 **Developer** Javascript / HTML / CSS / PHP / .LUA / C# / PY  
+### 🔭 **Developer** Javascript / React / HTML / CSS / PHP / .LUA / C# / PY
 - :technologist:  **Criador** de Artes - Bot, API's - Plugins/Script para jogos - Softwares
 - 🌱 Manager IT
 
